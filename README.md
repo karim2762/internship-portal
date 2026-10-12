@@ -1,6 +1,6 @@
 # InternPath – Internship Portal
 
-**Live app:** _paste Vercel URL_ · **Walkthrough video:** _paste link_ · **Test evidence:** [docs/evidence](docs/evidence/CHECKLIST.md)
+**Live app:** https://internship-portal-beryl-pi.vercel.app/ · **Walkthrough video:** _paste link_ · **Test evidence:** [docs/evidence](docs/evidence/CHECKLIST.md)
 
 Search, filter, and apply to internships. Mobile-first, keyboard accessible.
 
